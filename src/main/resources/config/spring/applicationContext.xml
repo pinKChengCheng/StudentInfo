@@ -14,7 +14,6 @@
 	<context:annotation-config />
 	<context:component-scan base-package="net.fuzui.StudentInfo.service" />
 
-jhhk
 <!--	&lt;!&ndash; druid连接池 &ndash;&gt;-->
 <!--	<bean id="dataSource" abstract="true" class="com.alibaba.druid.pool.DruidDataSource" init-method="init" destroy-method="close">-->
 <!--		<property name="driverClassName" value="com.mysql.cj.jdbc.Driver" />-->
